@@ -41,10 +41,8 @@
     {
       "url": "heroku/python"
     }
-  ]
-  {
+  ],
   "scripts": {
     "postdeploy": "pip install git+https://github.com/toch/seguia"
   }
-}
 }
